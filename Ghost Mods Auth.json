@@ -1,0 +1,46 @@
+{
+  "licenses": [
+    {
+      "Label_Name": "GHOST CORP! UTILITIES",
+      "name": "Ghost Utilities",
+      "ownerid": "spjyTYsVl9",
+      "secret": "5c807ab1c1796a998692387b90c624069d4379a1f6890d3d9e332d16a8aa1d7d",
+      "version": "1.0"
+    },
+    {
+      "Label_Name": "H2K UTILITIES",
+      "name": "H2K CORPORATION",
+      "ownerid": "tuui0reybK",
+      "secret": "afa44e0c8a6f32badc8859da0814d6d7c4b9000c445122c4ca8037c6a75a1d4c",
+      "version": "1.0"
+    },
+    {
+      "Label_Name": "KOPA UTILITIES",
+      "name": "Md Tanvir Islam",
+      "ownerid": "zTN968vlKw",
+      "secret": "bef367f584aeea29ba719357499ec771f01cb0fa5f5fc3758c9dd458e38f8fbd",
+      "version": "1.0"
+    },
+    {
+      "Label_Name": "MR KHAN UTILITIES",
+      "name": "Ghostkhan",
+      "ownerid": "HlCVgKh3p3",
+      "secret": "02ca42c6157981b0ac0fc6a44c636554b72f2bb8c8f8ed5db013ee8e8433ae07",
+      "version": "1.0"
+    },
+    {
+      "Label_Name": "P P UTILITIES",
+      "name": "Ghost Abir",
+      "ownerid": "jAuJo0SnXO",
+      "secret": "16ef95c6d608743e902696bb071097130a297fbbc2b7c683767403d8f92ead44",
+      "version": "1.0"
+    },
+    {
+      "Label_Name": "SELF-UPDATE UTILITIES",
+      "name": "GHOST GUEST RESET",
+      "ownerid": "2hHNM3m44i",
+      "secret": "b5d18676d15548f0135ad160a29c6f96033fd055a7d7aa5d116ef3740a071336",
+      "version": "1.0"
+    }
+  ]
+}
